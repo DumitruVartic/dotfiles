@@ -1,0 +1,1 @@
+ln -sf $HOME/dotfiles/Configs/.config/hypr/ $HOME/.config/
