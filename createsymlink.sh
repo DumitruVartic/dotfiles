@@ -1,5 +1,7 @@
 ln -sf $HOME/dotfiles/Configs/.config/hypr/ $HOME/.config/
 ln -sf $HOME/dotfiles/Configs/.config/waybar/ $HOME/.config/
+ln -sf $HOME/dotfiles/Configs/.config/fastfetch/ $HOME/.config/
+ln -sf $HOME/dotfiles/Configs/.config/nvim/ $HOME/.config/
 
 Scripts="$HOME/dotfiles/Configs/.local/share/bin/" 
 Scripts_Target="$HOME/.local/share/bin/"
