@@ -160,7 +160,7 @@ format = "deno [∫ $version](blue italic)"
 version_format = "${major}.${minor}"
 
 [lua]
-format = "lua [${symbol}${version}]($style)"
+format = "[${symbol}lua${version} ]($style)"
 symbol = "⨀ "
 style = "italic bright-yellow"
 
