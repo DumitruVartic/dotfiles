@@ -170,7 +170,6 @@ detect_files = ["package-lock.json", "yarn.lock"]
 version_format = "${major}.${minor}"
 
 [python]
-format = "[${symbol}python ${version}]($style) "
 symbol = "[ ](italic bright-blue)"
 version_format = "${major}.${minor}"
 style = "italic bright-yellow"
